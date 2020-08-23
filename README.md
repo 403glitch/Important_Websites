@@ -1,10 +1,11 @@
 # Important_Websites
 These are websites which can help a Script Kiddie in starting a carrier in Pentesting and Bug Bounty
 
-################################################################################
-------------------------------------------------------------------------------------------
-- Youtube Channels
+########################################################################
+
 ******************
+- Youtube Channels
+
 - NullBytes            (https://www.youtube.com/playlist?list=PL4zzNO1AFRUl8HhXpDFH8u-lIiqaBKuGT)
 - Hackersploit             (hsploit.com)
 - LiveOverflow
@@ -25,61 +26,65 @@ These are websites which can help a Script Kiddie in starting a carrier in Pente
 - Cristi Vlad
 - codeSTACKr     (coding)
 
-
-- WebAPP Pentest
 ********************************
+- WebAPP Pentest
+
 - https://www.hacker101.com/
 - https://www.bugcrowd.com/hackers/bugcrowd-university/
 - https://portswigger.net/web-security
 
 
-- Websites  { Blogs , Articles }
 ***************************************
+- Websites  { Blogs , Articles }
+
 - https://z-r0crypt.github.io/
 - https://portswigger.net/daily-swig
 
 
-- CheatSheet
 *******************************
+- CheatSheet
+
 - https://highon.coffee/
 - pentestmonkey.net
 - netsec.ws
 
-
-- Free Training
 ***************************************
+- Free Training
+
 - https://dfirdiva.com/free-training
 - https://malwareunicorn.org/#/workshops   ( Reverse Eng. ) (Workshops)
 
 
-
-- Tips
 **********************
+- Tips
+
 - https://www.infosecmatter.com/bug-bounty-tips/
 
 
-- Virtual OS
 *****************************************
+- Virtual OS
+
 - https://www.osboxes.org/
 - https://livecdlist.com/
 
 
 
-
-- Security Conference Slides / Videos
 ******************************************
+- Security Conference Slides / Videos
+
 - https://madhuakula.com/content/
 
-
-- OSWE Prep
 ******************************************************************
+- OSWE Prep
+
 - https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
 - OSWE machines IPPSEC → https://www.youtube.com/playlist?list=PLidcsTyj9JXKTnpphkJ310PVVGF-GuZA0
 - Guide → https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en
 
 
-- OSCP Prep
 ****************************************************************
+- OSCP Prep
+
 - https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/ 
 - The list of VM's  :-   https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms   ,   http://www.jaspher.com/blog/oscp-like-vulnhub-vms
 - OSCP machines IPPSEC → https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf
@@ -91,17 +96,17 @@ These are websites which can help a Script Kiddie in starting a carrier in Pente
 • https://github.com/s0wr0b1ndef/OSCP-note
 • https://github.com/dostoevskylabs/dostoevsky-pentest-notes
 
-
-- LockPicking
 ***************************************
+- LockPicking
+
 - TheLockPickingLawyer
 - bosnianbill
 - https://locklab.com/
 
 
-
-- Websites for Free Learning
 ********************************
+- Websites for Free Learning
+
 - https://portswigger.net/web-security   (Website Hacking)
 - https://www.hacking-tutorial.com/
 - https://www.hackingtutorials.org/
@@ -122,8 +127,9 @@ These are websites which can help a Script Kiddie in starting a carrier in Pente
 
 
 
-- Websites to Practice Hacking
 ***********************************
+- Websites to Practice Hacking
+
 
 - https://tryhackme.com/    ( Best )
 - https://hackaday.com/
@@ -150,8 +156,9 @@ These are websites which can help a Script Kiddie in starting a carrier in Pente
 Detailed Info - https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/?epik=dj0yJnU9YmlDYmk1ZUdSaEVXbjJ5dWFyTEJGbUxJal9iQjVQOTcmbj1ldFpKMUxCOG9iemNRVzF0cDlNZVl3Jm09MyZ0PUFBQUFBRjBxUmtV
 
 
-- WebApps To Practice Hacking 
 *************************************
+- WebApps To Practice Hacking 
+
 
 - DVWA :- http://www.dvwa.co.uk/
 - OWASP Broken Web Application :- https://sourceforge.net/projects/owaspbwa/
