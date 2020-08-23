@@ -2,7 +2,7 @@
 These are websites which can help a Script Kiddie in starting a carrier in Pentesting and Bug Bounty
 
 ################################################################################
-
+------------------------------------------------------------------------------------------
 - Youtube Channels
 ******************
 - NullBytes            (https://www.youtube.com/playlist?list=PL4zzNO1AFRUl8HhXpDFH8u-lIiqaBKuGT)
